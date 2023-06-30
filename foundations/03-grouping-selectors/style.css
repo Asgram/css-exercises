@@ -1,0 +1,13 @@
+.black-whiteCLASS, .yellowCLASS {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.black-whiteCLASS{
+    background-color: hsl(0, 0%, 0%);
+    color: white;
+}
+
+.yellowCLASS{
+    background-color: rgb(255, 255, 0);
+}
