@@ -15,6 +15,7 @@ body {
 
   display: flex;
   justify-content: space-between;
+  padding: 8px;
 }
 
 .profile-image {
@@ -50,27 +51,21 @@ ul {
   list-style-type: none;
 
   display: flex;
-  gap: 10px;
-  margin-left: -30px;
+  margin: 0 ;
+  padding: 0;
+  gap: 16px;
 }
 
 .left-header-side {
   display: flex;
-  margin: 8px;
+  gap: 16px;
   align-items: center;
-}
-
-.left-header-side > .logo {
-  margin-left: 16px;
 }
 
 .right-header-side {
   display: flex;
   align-items: center;
-  gap: 10px;
+  gap: 16px;
 
 }
 
-.right-header-side > .profile-image {
-  margin-right: 16px;
-}
